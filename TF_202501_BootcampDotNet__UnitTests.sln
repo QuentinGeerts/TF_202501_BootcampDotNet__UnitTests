@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_202501_BootcampDotNet__U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{CCD49EAD-E486-4128-A631-17630724895F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Tests", "Tools.Tests\Tools.Tests.csproj", "{244D2527-26D2-4DBC-9C4D-6F975916399D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CCD49EAD-E486-4128-A631-17630724895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCD49EAD-E486-4128-A631-17630724895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCD49EAD-E486-4128-A631-17630724895F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244D2527-26D2-4DBC-9C4D-6F975916399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D2527-26D2-4DBC-9C4D-6F975916399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D2527-26D2-4DBC-9C4D-6F975916399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D2527-26D2-4DBC-9C4D-6F975916399D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
