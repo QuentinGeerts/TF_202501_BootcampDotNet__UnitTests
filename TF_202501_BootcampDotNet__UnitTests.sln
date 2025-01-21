@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_202501_BootcampDotNet__UnitTests", "TF_202501_BootcampDotNet__UnitTests\TF_202501_BootcampDotNet__UnitTests.csproj", "{1A1DC518-A66A-4B49-A38E-48330E889C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{CCD49EAD-E486-4128-A631-17630724895F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1DC518-A66A-4B49-A38E-48330E889C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1DC518-A66A-4B49-A38E-48330E889C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1DC518-A66A-4B49-A38E-48330E889C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1DC518-A66A-4B49-A38E-48330E889C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD49EAD-E486-4128-A631-17630724895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD49EAD-E486-4128-A631-17630724895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD49EAD-E486-4128-A631-17630724895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD49EAD-E486-4128-A631-17630724895F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
